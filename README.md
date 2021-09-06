@@ -1,2 +1,7 @@
-# istu-lab-upp-2021-2022-en
-Software project management 2021
+# Software project management
+
+## Practice
+1. [Presentation](task01.md)
+
+## Information
+1. [Progress](progress.md)
