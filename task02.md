@@ -2,7 +2,7 @@ Task 2 Competitive Analysis
 ======
 
 1) Find 4 similar/competitive products which solve the same problem that your product is solving
-2) Compare your product with these products for 8 objective properties and create comprasion table:
+2) Compare your product with these products for 8 objective properties/features and create comprasion table:
 
 | Property   | Competitor 1 |  Competitor 2 |  Competitor 3 |  Competitor 4 | Your product
 |------------|--------------|---------------|---------------|---------------|--------------
