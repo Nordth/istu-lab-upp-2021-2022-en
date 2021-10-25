@@ -1,4 +1,4 @@
-Task 5 Use-case
+Task 6 API
 ======
 
 For now you have views (mockups) and data structure (ER-model). You need to design [API](https://en.wikipedia.org/wiki/API)-functions that will connect your views and your data. 
