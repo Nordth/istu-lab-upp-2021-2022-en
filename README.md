@@ -7,6 +7,7 @@
 4. [ER-model](task04.md)
 5. [Use-case](task05.md)
 6. [API](task06.md)
+7. [Project schedule](task07.md)
 
 ## Information
 1. [Progress](progress.md)
