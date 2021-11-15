@@ -8,6 +8,8 @@
 5. [Use-case](task05.md)
 6. [API](task06.md)
 7. [Project schedule](task07.md)
+7. [Prototype](task08.md)
+7. [Landing page](task09.md)
 
 ## Information
 1. [Progress](progress.md)
