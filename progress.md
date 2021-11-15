@@ -5,4 +5,4 @@
 |Borbor Emmanuel T-Wayne           | ✔ |  ✔ |     |   |   |  |   |   |   |   |
 |Paye Jonathan S                   | ✔ | 😐  | ✔ | ✔ | ✔ |  |   |   |   |   |
 |Saidy Buba                        | ✔ | ✔ |  ✔ |  ✔  | ✔ |  |   |   |   |   |
-|Swen Samuel Mccarthy              |    |    |    |    |   |  |   |   |   |   |
+|Swen Samuel Mccarthy              | ✔ |    |    |    |   |  |   |   |   |   |
